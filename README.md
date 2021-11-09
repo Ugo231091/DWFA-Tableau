@@ -8,6 +8,8 @@
 
 [Cliquez ici pour accéder à l'histoire Tableau](https://public.tableau.com/views/DWFA_16364682880280/Histoire1?:language=fr-FR&:display_count=n&:origin=viz_share_link)
 
+## Description de la mission 
+
 DWFA (Drinking Water For All)  présente 3 domaines d’expertises :
 * Création de services d’accès à l’eau potable ;
 * Modernisation de services d’accès à l’eau déjà existants ;
@@ -70,4 +72,6 @@ temps.
 * La palette « Bleu », en cohérence avec la couleur de l’eau, devra être
 utilisée sur Tableau.
 
-<div class='tableauPlaceholder' id='viz1636470105573' style='position: relative'><noscript><a href='#'><img alt='L&#39;eau, symbole d&#39;une inégalité préoccupante à l&#39;échelle mondiale  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DW&#47;DWFA_16364682880280&#47;Histoire1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DWFA_16364682880280&#47;Histoire1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DW&#47;DWFA_16364682880280&#47;Histoire1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='fr-FR' /></object></div>                     vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+## Extrait de l'histoire Tableau 
+
+<div class='tableauPlaceholder' id='viz1636470105573' style='position: relative'><noscript><a href='#'><img alt='L&#39;eau, symbole d&#39;une inégalité préoccupante à l&#39;échelle mondiale  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DW&#47;DWFA_16364682880280&#47;Histoire1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DWFA_16364682880280&#47;Histoire1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;DW&#47;DWFA_16364682880280&#47;Histoire1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='fr-FR' /></object></div>           
