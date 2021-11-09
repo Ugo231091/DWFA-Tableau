@@ -1,7 +1,7 @@
 # DWFA-Tableau
 
 <p align="center">
-  <img src="images/Images/DWFA.png"/>
+  <img src="Images/DWFA.png"/>
 </p>
 
 DWFA (Drinking Water For All)  présente 3 domaines d’expertises :
