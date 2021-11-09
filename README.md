@@ -4,6 +4,10 @@
   <img src="Images/DWFA.png"/>
 </p>
 
+## Lien vers l'histoire Tableau
+
+[Cliquez ici pour accéder à l'histoire Tableau](https://public.tableau.com/views/DWFA_16364682880280/Histoire1?:language=fr-FR&:display_count=n&:origin=viz_share_link)
+
 DWFA (Drinking Water For All)  présente 3 domaines d’expertises :
 * Création de services d’accès à l’eau potable ;
 * Modernisation de services d’accès à l’eau déjà existants ;
